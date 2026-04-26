@@ -2,4 +2,4 @@ Hasselblad Baseline Exposure - this Darktable lua script reads the baselineExpos
 
 Leica Q3 Digital Zoom - this Darktable lua script reads the .dng file for "in camera" digital zoom (crop) and applies it (via a button).
 
-
+All are offered "as-is", I hope you find them useful!
